@@ -6,7 +6,7 @@
 
 int main(int argc)
 {
-	printf("Pozdrav iz aplikacije od Josipa Tomaiæa");
+	printf("Pozdrav iz aplikacije od Josipa Tomaiæa\nBroj indeksa: 456123");
 	return 0;
 }
 
